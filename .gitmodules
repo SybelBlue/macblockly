@@ -2,5 +2,5 @@
 	path = blockly
 	url = https://github.com/SybelBlue/blockly.git
 [submodule "closure"]
-	path = closure
+	path = closure-library
 	url = https://github.com/google/closure-library.git
