@@ -1,0 +1,6 @@
+[submodule "blockly"]
+	path = blockly
+	url = https://github.com/SybelBlue/blockly.git
+[submodule "closure"]
+	path = closure
+	url = https://github.com/google/closure-library.git
