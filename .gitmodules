@@ -4,3 +4,6 @@
 [submodule "closure"]
 	path = closure-library
 	url = https://github.com/google/closure-library.git
+[submodule "spatial"]
+	path = spatial
+	url = https://github.com/Francis1240/blockly.git
